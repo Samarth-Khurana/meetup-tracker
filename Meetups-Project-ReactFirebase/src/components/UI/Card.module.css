@@ -1,0 +1,11 @@
+.card {
+    background-color: rgb(243, 235, 235);
+    border-radius: 6px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 330ms ease-in-out;
+  }
+
+  .card:hover{
+    transform: scale(1.1);
+
+  }
